@@ -1,5 +1,4 @@
 # LAND REGISTRATION AUTHORITY - Case Status Management System
-
 ## This is our project as an intern at the Land Registration Authority - 2023
 
 # ADMIN SIDE:
