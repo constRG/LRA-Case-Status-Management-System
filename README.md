@@ -1,4 +1,4 @@
-# LRA-Case-Status-Management-System
+![update_data_form](https://github.com/constRG/LRA-Case-Status-Management-System/assets/103750848/6519b437-79e5-464e-833c-8db2de9a3afd)# LRA-Case-Status-Management-System
 This is our project as an intern at the Land Registration Authority
 
 **ADMIN SIDE:**
@@ -34,15 +34,19 @@ This is our project as an intern at the Land Registration Authority
 
 
 
-
+**FUNCTIONS**
 **ADD DATA:**
-![add_data_form](https://github.com/constRG/LRA-Case-Status-Management-System/assets/103750848/badf20d4-48b6-4fe1-b434-3ceb8bdc1125)
+![image](https://github.com/constRG/LRA-Case-Status-Management-System/assets/103750848/3837fd13-53f1-41aa-86bc-2ae2cf059944)
 
 **UPDATE DATA:**
-![update_data_form](https://github.com/constRG/LRA-Case-Status-Management-System/assets/103750848/ddd6e2b7-c437-424a-9571-589d1fbb2997)
+![image](https://github.com/constRG/LRA-Case-Status-Management-System/assets/103750848/483e9fe3-238f-46f0-829a-f6a1f99df816)
 
 **PRINT DATA:**
 ![print_data](https://github.com/constRG/LRA-Case-Status-Management-System/assets/103750848/674140c1-33df-4b7d-892a-45a2b2c162fc)
+
+**CHANGE PASSWORD**
+![image](https://github.com/constRG/LRA-Case-Status-Management-System/assets/103750848/0c647a27-02cb-4005-8db9-c57854452332)
+
 
 
 
