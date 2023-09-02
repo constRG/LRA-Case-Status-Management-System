@@ -32,11 +32,13 @@ This is our project as an intern at the Land Registration Authority
 
 
 
-**PRINT DATA:**
+**ADD DATA:**
 ![add_data_form](https://github.com/constRG/LRA-Case-Status-Management-System/assets/103750848/d0b4fe60-49f8-4388-9013-3353fb9e612f)
 
+**UPDATE DATA:**
 ![update_data_form](https://github.com/constRG/LRA-Case-Status-Management-System/assets/103750848/36a9c7a7-3ed7-4964-97c6-31747be2466c)
 
+**PRINT DATA:**
 ![print_data](https://github.com/constRG/LRA-Case-Status-Management-System/assets/103750848/674140c1-33df-4b7d-892a-45a2b2c162fc)
 
 
