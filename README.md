@@ -18,10 +18,12 @@ This is our project as an intern at the Land Registration Authority
 
 
 
+
 **USER SIDE:** Can Add and Update Data
 ![lra_user_dashboard](https://github.com/constRG/LRA-Case-Status-Management-System/assets/103750848/69750546-cebd-4d26-9f38-32c37cdd6c5d)
 
 ![lra_user_manage_all_data](https://github.com/constRG/LRA-Case-Status-Management-System/assets/103750848/61290567-7f85-4bcf-94b7-f1e8fc118e9f)
+
 
 
 
@@ -32,11 +34,12 @@ This is our project as an intern at the Land Registration Authority
 
 
 
+
 **ADD DATA:**
-![add_data_form](https://github.com/constRG/LRA-Case-Status-Management-System/assets/103750848/d0b4fe60-49f8-4388-9013-3353fb9e612f)
+![add_data_form](https://github.com/constRG/LRA-Case-Status-Management-System/assets/103750848/badf20d4-48b6-4fe1-b434-3ceb8bdc1125)
 
 **UPDATE DATA:**
-![update_data_form](https://github.com/constRG/LRA-Case-Status-Management-System/assets/103750848/36a9c7a7-3ed7-4964-97c6-31747be2466c)
+![update_data_form](https://github.com/constRG/LRA-Case-Status-Management-System/assets/103750848/ddd6e2b7-c437-424a-9571-589d1fbb2997)
 
 **PRINT DATA:**
 ![print_data](https://github.com/constRG/LRA-Case-Status-Management-System/assets/103750848/674140c1-33df-4b7d-892a-45a2b2c162fc)
