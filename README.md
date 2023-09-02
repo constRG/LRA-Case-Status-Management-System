@@ -2,7 +2,7 @@ LAND REGISTRATION AUTHORITY - Case Status Management System
 <br>
 This is our project as an intern at the Land Registration Authority - 2023
 
-#**ADMIN SIDE:**
+# **ADMIN SIDE:**
 ![lra_login](https://github.com/constRG/LRA-Case-Status-Management-System/assets/103750848/cd0a7204-bbe4-4b02-a35b-281f2ea576fb)
 
 ![lra_admin_dashboard](https://github.com/constRG/LRA-Case-Status-Management-System/assets/103750848/34322ff6-00e4-40e2-bd96-4848ce99636c)
