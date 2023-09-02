@@ -6,7 +6,9 @@ This is our project as an intern at the Land Registration Authority
 
 ![lra_admin_dashboard](https://github.com/constRG/LRA-Case-Status-Management-System/assets/103750848/34322ff6-00e4-40e2-bd96-4848ce99636c)
 
-![judicial_regions_total_number_of_cases](https://github.com/constRG/LRA-Case-Status-Management-System/assets/103750848/d3f9d57d-bcf1-4bd4-8efc-a952a9f59532)
+![lra_admin_judicial_regions_total_number_of_cases](https://github.com/constRG/LRA-Case-Status-Management-System/assets/103750848/902f3cf1-12cf-4989-976e-e43a35677171)
+
+![add_user_form](https://github.com/constRG/LRA-Case-Status-Management-System/assets/103750848/bf66180f-f09f-4f78-9931-d93f245745fc)
 
 ![lra_admin_manage_user](https://github.com/constRG/LRA-Case-Status-Management-System/assets/103750848/48cceba1-5968-45a5-8698-d7a20a45c55c)
 
@@ -14,22 +16,16 @@ This is our project as an intern at the Land Registration Authority
 
 ![lra_admin_manage_all_data](https://github.com/constRG/LRA-Case-Status-Management-System/assets/103750848/8656e516-91cd-407b-85d2-9e4b7d472cb1)
 
-![lra_admin_add_data_form](https://github.com/constRG/LRA-Case-Status-Management-System/assets/103750848/eb59b22c-a9b6-4e10-ac72-2ec8ac5a112d)
-
-![lra_admin_update_data_form](https://github.com/constRG/LRA-Case-Status-Management-System/assets/103750848/d100a152-48cb-4f37-a229-353c9aa69ffd)
 
 
-
-**USER SIDE:**
+**USER SIDE:** Can Add and Update Data
 ![lra_user_dashboard](https://github.com/constRG/LRA-Case-Status-Management-System/assets/103750848/69750546-cebd-4d26-9f38-32c37cdd6c5d)
 
 ![lra_user_manage_all_data](https://github.com/constRG/LRA-Case-Status-Management-System/assets/103750848/61290567-7f85-4bcf-94b7-f1e8fc118e9f)
 
-![lra_user_add_data_form](https://github.com/constRG/LRA-Case-Status-Management-System/assets/103750848/e21c5529-e73e-417f-94ef-ea467f1261dd)
 
 
-
-**VIEWER SIDE:**
+**VIEWER SIDE:** Can't Add and Update Data
 ![lra_viewer_dashboard](https://github.com/constRG/LRA-Case-Status-Management-System/assets/103750848/8004d883-5030-422c-994c-53ac293d27a3)
 
 ![lra_viewer_view_all_data](https://github.com/constRG/LRA-Case-Status-Management-System/assets/103750848/d6c1f8ee-a145-4c4c-8ed7-2af4d5e05fc8)
@@ -37,7 +33,13 @@ This is our project as an intern at the Land Registration Authority
 
 
 **PRINT DATA:**
-![print_data](https://github.com/constRG/LRA-Case-Status-Management-System/assets/103750848/9ede3dcd-5905-4d2d-ac1a-e6ca4f3dd6bc)
+![add_data_form](https://github.com/constRG/LRA-Case-Status-Management-System/assets/103750848/d0b4fe60-49f8-4388-9013-3353fb9e612f)
+
+![update_data_form](https://github.com/constRG/LRA-Case-Status-Management-System/assets/103750848/36a9c7a7-3ed7-4964-97c6-31747be2466c)
+
+![print_data](https://github.com/constRG/LRA-Case-Status-Management-System/assets/103750848/674140c1-33df-4b7d-892a-45a2b2c162fc)
+
+
 
 
 
