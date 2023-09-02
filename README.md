@@ -15,25 +15,29 @@ This is our project as an intern at the Land Registration Authority
 ![lra_users_actions_taken_history](https://github.com/constRG/LRA-Case-Status-Management-System/assets/103750848/f6a8d1ca-12dd-4263-8817-721790d6e555)
 
 ![lra_admin_manage_all_data](https://github.com/constRG/LRA-Case-Status-Management-System/assets/103750848/8656e516-91cd-407b-85d2-9e4b7d472cb1)
-
-
-
-
+*
+*
+*
+*
+*
 **USER SIDE:** Can Add and Update Data
 ![lra_user_dashboard](https://github.com/constRG/LRA-Case-Status-Management-System/assets/103750848/69750546-cebd-4d26-9f38-32c37cdd6c5d)
 
 ![lra_user_manage_all_data](https://github.com/constRG/LRA-Case-Status-Management-System/assets/103750848/61290567-7f85-4bcf-94b7-f1e8fc118e9f)
-
-
-
-
+*
+*
+*
+*
+*
 **VIEWER SIDE:** Can't Add and Update Data
 ![lra_viewer_dashboard](https://github.com/constRG/LRA-Case-Status-Management-System/assets/103750848/8004d883-5030-422c-994c-53ac293d27a3)
 
 ![lra_viewer_view_all_data](https://github.com/constRG/LRA-Case-Status-Management-System/assets/103750848/d6c1f8ee-a145-4c4c-8ed7-2af4d5e05fc8)
-
-
-
+*
+*
+*
+*
+*
 **FUNCTIONS**
 **ADD DATA:**
 ![image](https://github.com/constRG/LRA-Case-Status-Management-System/assets/103750848/3837fd13-53f1-41aa-86bc-2ae2cf059944)
